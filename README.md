@@ -14,3 +14,16 @@ https://drive.google.com/drive/folders/1Dp9QNTgwMp0b5URQUGpE3x60BHyXRODQ?usp=sha
 ## FEEDBACK VIDEO LINK
 https://drive.google.com/drive/folders/1Jdkn5yZy-1ie6Cq_kGv458J7gMBwXu70?usp=sharing
 
+## TRAINED CNN MODEL LINK
+https://drive.google.com/drive/folders/14AY7nAYVAKReHZoNJyIXEj5ldWx0OG7t?usp=sharing
+
+## FILES
+tumor.ipynb - CNN Model Training
+mri_ui.html - FLask Front End
+mri_redirect.html - Flask Front End
+app.py  - Flask Application
+Watson_file.ipynb - Deploying on IBM Watson
+
+
+
+
