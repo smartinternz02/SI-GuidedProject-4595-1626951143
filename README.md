@@ -24,7 +24,7 @@ mri_redirect.html - Flask Front End <br>
 app.py  - Flask Application <br>
 Watson_file.ipynb - Deploying on IBM Watson <br>
 
-## IBM access token credentials:
+## IBM access token credentials
 SmartBridge_IBM_Reference token: p-9ae415374995c7307c0896f71144fc3bec548700
 
 ## NOTE
