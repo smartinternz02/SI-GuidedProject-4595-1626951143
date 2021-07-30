@@ -2,11 +2,11 @@
 # BRAIN TUMOR IMAGE CLASSIFICATION USING IBM WATSON STUDIO
 
 ## TEAM MEMBERS
-Aravind G  18BCE1190 <br>
-Surya Srinivasan 18BCE1055<br> 
-R A Keerthan 18BCE1208  <br>
-Anahitaa R 18BCE1325<br>
-Anish Subramanian 18BLC1055<br>
+18BCE1190 Aravind G   <br>
+18BCE1055 Surya Srinivasan <br> 
+18BCE1208 R A Keerthan  <br>
+18BCE1325 Anahitaa R <br>
+18BLC1055 Anish Subramanian <br>
 
 ## PROJECT DRIVE LINK
 https://drive.google.com/drive/folders/1Dp9QNTgwMp0b5URQUGpE3x60BHyXRODQ?usp=sharing
