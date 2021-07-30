@@ -18,11 +18,11 @@ https://drive.google.com/drive/folders/1Jdkn5yZy-1ie6Cq_kGv458J7gMBwXu70?usp=sha
 https://drive.google.com/drive/folders/14AY7nAYVAKReHZoNJyIXEj5ldWx0OG7t?usp=sharing
 
 ## FILES
-tumor.ipynb - CNN Model Training
-mri_ui.html - FLask Front End
-mri_redirect.html - Flask Front End
-app.py  - Flask Application
-Watson_file.ipynb - Deploying on IBM Watson
+tumor.ipynb - CNN Model Training <br>
+mri_ui.html - FLask Front End <br>
+mri_redirect.html - Flask Front End <br>
+app.py  - Flask Application <br>
+Watson_file.ipynb - Deploying on IBM Watson <br>
 
 
 
